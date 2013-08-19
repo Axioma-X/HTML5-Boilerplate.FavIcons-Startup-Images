@@ -1,5 +1,18 @@
 ![H5BP-Multi-Layer-FavIcons](https://raw.github.com/jonrandahl/H5BP-Multi-Layer-FavIcons/master/images/multilayer.png)
 
+SOURCE
+======
+This project is a fork of: [H5BP-Multi-Layer-FavIcons](https://github.com/jonrandahl/H5BP-Multi-Layer-FavIcons/)
+
+---
+
+H5BP StartUp Images
+=========================
+
+Use the files `"PSD/startup-*.psd"` to generate your images.
+
+---
+
 H5BP Multi-Layer FavIcons
 =========================
 
